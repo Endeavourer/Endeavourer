@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/oO9aEGGiTLtwDBe5OI/giphy.gif" width="350" height="240" />
   
   - Currently, working on Django<br><br>
   - Learning ML algorithm <br><br>
-  - Most of my projects are available on Github and GitLab<br><br>
+  - Most of my projects are available on Github <br><br>
   
   <br>
   <br>
