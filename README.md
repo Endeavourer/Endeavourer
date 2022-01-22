@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I am [Abhiyank Raj Tiwari](#)
+### Hi there 👋 I am [Abhiyank Raj Tiwari](#)! A 3rd year undergraduate at IIIT Vadodara.
 
 <a href="https://www.linkedin.com/in/abhiyank-raj-067a78203/">
   <img align="left" alt="Abhiyank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -42,8 +42,17 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://media.giphy.com/media/oO9aEGGiTLtwDBe5OI/giphy.gif" width="350" height="240" />
   
   - Currently, working on Django<br><br>
-  - Learning ML algorithm <br><br>
+  - Learning ML algorithms <br><br>
   - Most of my projects are available on Github <br><br>
+  - 👯 I’m looking to collaborate on **Django Projects**.
+  - 🤔 I’m looking for help with **Open Source Project**.
+  - 😄 Pronouns: He/Him
+  - ⚡ Fun fact: I love watching **Doraemon**.
+  - 📫 Let us Connect: 
+    <p align='center'>
+    <a href="mailto:abhiyankraj11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/abhiyank-raj-067a78203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.github.com/Endeavourer/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
   
   <br>
   <br>
