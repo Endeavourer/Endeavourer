@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&count_private=true&langs_count=5&theme=radical)
 **Endeavourer/Endeavourer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <h4>Top Languages:</h4>
 
-<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&hide=html)](https://github.com/Endeavourer/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&hide=html)](https://github.com/Endeavourer/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&count_private=true&langs_count=5&theme=radical)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Endeavourer.Endeavourer)
