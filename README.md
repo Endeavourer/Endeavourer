@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <h4>Top Languages:</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&count_private=true&langs_count=5&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&count_private=true&langs_count=5&theme=radical)](https://github.com/Endeavourer/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Endeavourer.Endeavourer)
