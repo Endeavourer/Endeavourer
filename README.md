@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <div>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/oO9aEGGiTLtwDBe5OI/giphy.gif" width="350" height="240" />
   
-  - Currently, working on Django<br><br>
-  - Learning ML algorithms <br><br>
-  - Most of my projects are available on Github <br><br>
+  - Currently, working on Django<br>
+  - Learning ML algorithms <br>
+  - Most of my projects are available on Github <br>
   - 👯 I’m looking to collaborate on **Django Projects**.
   - 🤔 I’m looking for help with **Open Source Project**.
   - 😄 Pronouns: He/Him
@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 </div>
 <div>
 
-![Abhiyank's github stats](https://github-readme-stats.vercel.app/api?username=Endeavourer&show_icons=true&theme=radical)
+![Abhiyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeavourer&count_private=true&show_icons=true&theme=radical)
+
 
 </div>
 
