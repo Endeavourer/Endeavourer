@@ -22,7 +22,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhiyank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/Endeavourer11/">
-  <img align="left" alt="Abhiyank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Abhiyank's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.hackerrank.com/Endeavourer/">
+  <img align="left" alt="Abhiyank's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 <br />
