@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 </div>
 <div>
-
+<!--
 ![Abhiyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeavourer&count_private=true&show_icons=true&theme=radical)
 
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <br />
 
 <br />
-
+-->
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
