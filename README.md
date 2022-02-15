@@ -81,11 +81,11 @@ Here are some ideas to get you started:
 <br />
 
 <br />
--->
+
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
-
+-->
 <h4>Top Languages:</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&count_private=true&langs_count=10&theme=radical)
