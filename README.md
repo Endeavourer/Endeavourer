@@ -18,18 +18,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3282B8&duration=10000&width=800&height=75&lines=I'm+Abhiyank+Raj+Tiwari.;I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIITVadodara.)](https://git.io/typing-svg)
 
-
-
-
 <br />
 <br />
-
-<div>
-  <p>
-
-  </p>
-</div>
-
 
 #### My profile overview:
 <br>
