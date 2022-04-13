@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6F69AC&duration=10000&width=800&height=75&lines=;I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIITVadodara.;Endeavouring+to+fly+high.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6F69AC&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIITVadodara.;Endeavouring+to+fly+high.)](https://git.io/typing-svg)
 
 <br />
 
