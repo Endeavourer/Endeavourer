@@ -1,6 +1,5 @@
 <!--
-### Hi there 👋
-
+### Hi there 👋 I am [Abhiyank Raj Tiwari](#)! A 3rd year undergraduate at IIIT Vadodara.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&count_private=true&langs_count=5&theme=radical)
 **Endeavourer/Endeavourer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I am [Abhiyank Raj Tiwari](#)! A 3rd year undergraduate at IIIT Vadodara.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=I'm+Abhiyank+Raj+Tiwari.;I'm+a+CSE+Pre-Final+Yearite+at+IIITVadodara.)](https://git.io/typing-svg)
+### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3282B8&duration=10000&width=800&height=75&lines=I'm+Abhiyank+Raj+Tiwari.;I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIITVadodara.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Endeavourer&label=Views&color=3282B8&style=flat-square" alt="views on github" />
 
 
 
