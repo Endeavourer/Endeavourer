@@ -37,14 +37,14 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/abhiyank-raj-067a78203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.github.com/Endeavourer/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
       </p>
-  - 👀 Watch out at:
+<!--   - 👀 Watch out at:
       <p align='center'>
         <a href="https://leetcode.com/Endeavourer11/">
           <img align="left" alt="Abhiyank's LeetCode" src="https://img.shields.io/badge/LeetCode-203239?style=for-the-badge&logo=leetcode&logoColor=white%22%3E%3C/a%3E" />
         </a>
         <a href="https://www.hackerrank.com/Endeavourer/">
           <img align="left" alt="Abhiyank's HackerRank" src="https://img.shields.io/badge/HackerRank-203239?style=for-the-badge&logo=hackerrank&logoColor=white%22%3E%3C/a%3E" />
-        </a>
+        </a> -->
         </p>
         
         
