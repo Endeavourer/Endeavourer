@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 ### Hi there 👋 I am [Abhiyank Raj Tiwari](#)! 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high.)](https://git.io/typing-svg)
+ </div>
 <!-- <br /> -->
 #### My profile overview:
 <br>
