@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high." alt="Abhiyank Raj Tiwari"></a>
@@ -130,3 +130,13 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&theme=dark&layout=compact&count_private=true&langs_count=10&align=right&width=40%)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Endeavourer.Endeavourer)
+ 
+ 
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Endeavourer/Endeavourer/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
