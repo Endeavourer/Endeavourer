@@ -31,11 +31,11 @@ Here are some ideas to get you started:
   - 🤔 I’m looking for help with **Open Source Project**.
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: I love watching **Doraemon**.
-  - 📫 Let us Connect: 
+<!--   - 📫 Let us Connect: 
     <p align='center'>
     <a href="mailto:abhiyankraj11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/abhiyank-raj-067a78203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.github.com/Endeavourer/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
+    <a href="https://www.github.com/Endeavourer/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>  -->
       </p>
 <!--   - 👀 Watch out at:
       <p align='center'>
@@ -56,6 +56,33 @@ Here are some ideas to get you started:
 
 </div>
 <div>
+ <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
+    <p align='center'>
+    <a href="mailto:abhiyankraj11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/abhiyank-raj-067a78203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.github.com/Endeavourer/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
+  
+  
+ <h2 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Language & Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h2>
+
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.django.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="django" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+</p><br>
+
 <!--
 ![Abhiyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endeavourer&count_private=true&show_icons=true&theme=radical)
 
