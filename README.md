@@ -125,6 +125,13 @@ Here are some ideas to get you started:
 <br/>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc" />
 </div>
+ <h2>:thought_balloon: Quote of the day</h2>
+<details open>
+<summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
 <h4>Top Languages:</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&theme=dark&layout=compact&count_private=true&langs_count=10&align=right&width=40%)
