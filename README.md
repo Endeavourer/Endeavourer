@@ -85,7 +85,9 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="django" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
- [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
+<a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="latex" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<!--  [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) -->
 
 <!-- ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) -->
 </p><br>
@@ -112,6 +114,11 @@ Here are some ideas to get you started:
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 -->
+ <h2> 😆 Fun </h2>
+<br/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc" />
+</div>
 <h4>Top Languages:</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&theme=dark&layout=compact&count_private=true&langs_count=10&align=right&width=40%)
