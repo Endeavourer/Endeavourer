@@ -83,6 +83,9 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
 <a href="https://www.matlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="django" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="django" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+
 <!-- ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) -->
 </p><br>
 
