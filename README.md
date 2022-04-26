@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <a href="mailto:abhiyankraj11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/abhiyank-raj-067a78203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.github.com/Endeavourer/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>  -->
-      </p>
+<!--       </p> -->
 <!--   - 👀 Watch out at:
       <p align='center'>
         <a href="https://leetcode.com/Endeavourer11/">
@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
 <a href="https://www.django.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="django" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-14354C?style=for-the-badge&logo=Matlab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 </p><br>
 
 <!--
