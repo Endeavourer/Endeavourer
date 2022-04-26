@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high." alt="Abhiyank Raj Tiwari"></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2330F73B&size=30&center=true&vCenter=true&width=450&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high." alt="Abhiyank Raj Tiwari"></a>
 <!-- ### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!  -->
 <!-- <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high.)](https://git.io/typing-svg)
@@ -121,9 +119,10 @@ Here are some ideas to get you started:
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 -->
- <h2> 😆 Fun </h2>
-<br/>
+
 <div align="center">
+     <h2> 😆 Joke </h2>
+<br/>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc" />
 </div>
 <h4>Top Languages:</h4>
