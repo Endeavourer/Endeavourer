@@ -153,10 +153,11 @@ Here are some ideas to get you started:
     </a>
 </details> -->
 
-<h4>Top Languages Used:</h4>
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&theme=dark&layout=compact&count_private=true&langs_count=10&align=right&width=40%)
-</p>
+ <h4>Top Languages Used:</h4>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&theme=dark&layout=compact&count_private=true&langs_count=10&align=center&width=40%)  
+<!--  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endeavourer&layout=compact&theme=vision-friendly-dark" />
+</div> -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Endeavourer.Endeavourer)
  
  
