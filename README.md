@@ -84,14 +84,21 @@ Here are some ideas to get you started:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+&nbsp; &nbsp; 
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>  -->
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PROxZIMA/PROxZIMA/blob/master/src/tools/django.svg" alt="django" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://in.mathworks.com/products/matlab-online.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
-<a href="https://in.mathworks.com/products/matlab-online.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="django" width="40" height="40"/> </a> 
-&nbsp; &nbsp;
- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="django" width="40" height="40"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
 <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="latex" width="60" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/PROxZIMA/PROxZIMA/blob/master/src/tools/jupyter.svg" alt="jupyter" width="60" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/PROxZIMA/PROxZIMA/blob/master/src/tools/colab.svg" alt="colab" width="60" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/PROxZIMA/PROxZIMA/blob/master/src/tools/vscode.svg" alt="VS code" width="60" height="40"/> </a> 
 &nbsp; &nbsp;
 <!--  [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) -->
 
