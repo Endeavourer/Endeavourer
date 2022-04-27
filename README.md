@@ -120,6 +120,18 @@ Here are some ideas to get you started:
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 -->
+ <table>
+  <tr>
+    <th><h2> 😆 Joke </h2></th>
+    <th><h2>:thought_balloon: Quote of the day</h2></th>
+  </tr>
+  <tr>
+    <td> <img src="https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc" /></td>
+    <td><a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a></td>
+  </tr>
+  </table>
 
 <div align="left">
      <h2> 😆 Joke </h2>
