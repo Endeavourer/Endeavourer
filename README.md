@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/oO9aEGGiTLtwDBe5OI/giphy.gif" width="350" height="240" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/oO9aEGGiTLtwDBe5OI/giphy.gif" width="300" height="240" />
   
   - Currently, working on Django<br>
   - Learning ML algorithms <br>
