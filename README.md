@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/oO9aEGGiTLtwDBe5OI/giphy.gif" width="350" height="240" />
-  <br>
+ 
   - Currently, working on Django<br>
   - Learning ML algorithms <br>
   - Most of my projects are available on Github <br>
