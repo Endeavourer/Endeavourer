@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!
+
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<br />
+### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!
+<br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%237E3ACE&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high." alt="Abhiyank Raj Tiwari"></a>
 <!-- ### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!  -->
 <!-- <div align="center">
