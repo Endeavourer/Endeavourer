@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!
 <!-- <br /> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%237E3ACE&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high." alt="Abhiyank Raj Tiwari"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%237E3ACE&duration=10000&width=800&height=75&lines=I'm+a+CSE+Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high." alt="Abhiyank Raj Tiwari"></a>
 <!-- ### Hi there 👋 I am [Abhiyank Raj Tiwari](#)!  -->
 <!-- <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=I'm+a+CSE+Pre-Final+Year+undergraduate+at+IIIT+Vadodara.;ENDEAVOURING+to+fly+high.)](https://git.io/typing-svg)
