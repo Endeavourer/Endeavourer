@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 &nbsp; &nbsp; 
- 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL"></a> &nbsp;&nbsp;
+<a href="#"target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL" width="40" height="40"/></a>
+ &nbsp;&nbsp;
 <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>  -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PROxZIMA/PROxZIMA/blob/master/src/tools/django.svg" alt="django" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
@@ -107,12 +107,10 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg" alt="Postman"></a> &nbsp;&nbsp;
 <!--  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg" alt="MySQL"></a> &nbsp;&nbsp; -->
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL"></a> &nbsp;&nbsp;
- 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"></a> &nbsp;&nbsp;
- 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a> &nbsp;&nbsp
+<!-- <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL"></a> &nbsp;&nbsp; -->
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git" width="60" height="40"/></a> &nbsp;&nbsp;
+<a href="#"target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"width="60" height="40"/></a> &nbsp;&nbsp; 
+<a href="#"target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"width="60" height="40"/></a> &nbsp;&nbsp;
 <!--  [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) -->
 
 <!-- ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) -->
